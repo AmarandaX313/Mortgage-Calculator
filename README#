@@ -1,0 +1,13 @@
+Mortgage Calculator Program
+created by: Heather Pratt
+email: kitty.ghoul1@gmail.com
+
+Simple mortgage calculator program
+To use, enter prompted amounts of principal, interest and term. 
+###There is no validation yet.  Improper input will crash the program.
+###Fix coming in later release
+
+Once entered, the monthly payment will be displayed.
+Prompt given for amortization.  If 'y', amortization displays
+
+any other response will exit the program.  
